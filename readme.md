@@ -1,4 +1,5 @@
-# Awesome Modern Twitter API [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![v2](https://img.shields.io/endpoint?url=https%3A%2F%2Ftwbadges.glitch.me%2Fbadges%2Fv2)](https://developer.twitter.com/) [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
+# Awesome Modern Twitter API 
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![v2](https://img.shields.io/endpoint?url=https%3A%2F%2Ftwbadges.glitch.me%2Fbadges%2Fv2)](https://developer.twitter.com/) [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
 [cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
 [cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
