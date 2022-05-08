@@ -1,13 +1,31 @@
-# Awesome Modern Twitter API [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Modern Twitter API [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![v2](https://img.shields.io/endpoint?url=https%3A%2F%2Ftwbadges.glitch.me%2Fbadges%2Fv2)](https://developer.twitter.com/) [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
-A curated list of awesome libraries, SDKs, software and resources for the modern (post-v1.1) Twitter API.
+[cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
+[cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
+[cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
+
+A curated list of awesome libraries, SDKs, software and resources for the _modern_ (post-v1.1) Twitter API.
 
 The [Twitter API](https://developer.twitter.com/) is the programming interface that enables developers to build apps and tools on top of the Twitter Developer Platform. Version 2 of the API represented a complete rewrite from the legacy (v1.1) platform, with new endpoints, data formats, and semantics.
 
 ## Contents
 
-- [Libraries](#libraries)
-- [Resources](#resources)
+  - [Contents](#contents)
+  - [Libraries](#libraries)
+    - [C# / .NET](#c--net)
+    - [Go](#go)
+    - [Java](#java)
+    - [JavaScript (Node.JS) / TypeScript](#javascript-nodejs--typescript)
+    - [Kotlin](#kotlin)
+    - [PHP](#php)
+    - [PowerShell](#powershell)
+    - [Python](#python)
+    - [R](#r)
+    - [Ruby](#ruby)
+  - [Resources](#resources)
+    - [Community](#community)
+    - [Documentation](#documentation)
+    - [Tutorials](#tutorials)
 
 ## Libraries
 
@@ -84,5 +102,21 @@ API libraries in a range of programming languages.
 
 ## Resources
 
+### Community
+
 - [Developer Forums](https://twittercommunity.com)
+
+### Documentation
+
 - [Developer Website](https://developer.twitter.com)
+
+### Tutorials
+
+- to add
+
+## License
+
+This work is licensed under a
+[Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
+
+[![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
