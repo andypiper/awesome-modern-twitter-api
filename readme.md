@@ -1,8 +1,6 @@
 # Awesome Modern Twitter API [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-![v2](https://img.shields.io/endpoint?url=https%3A%2F%2Ftwbadges.glitch.me%2Fbadges%2Fv2) ![CC BY-SA 4.0][cc-by-sa-shield]
-
-[cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
+![v2](https://img.shields.io/endpoint?url=https%3A%2F%2Ftwbadges.glitch.me%2Fbadges%2Fv2) [![CC-0 license](https://img.shields.io/badge/License-CC--0-blue.svg)](https://creativecommons.org/licenses/by-nd/4.0)
 
 A curated list of awesome libraries, SDKs, software and resources for the _modern_ (post-v1.1) Twitter API.
 
