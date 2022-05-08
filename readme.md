@@ -1,15 +1,17 @@
 # Awesome Modern Twitter API [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> libraries, tools and apps using the modern Twitter API
+A curated list of awesome libraries, SDKs, software and resources for the modern (post-v1.1) Twitter API.
+
+The [Twitter API](https://developer.twitter.com/) is the programming interface that enables developers to build apps and tools on top of the Twitter Developer Platform. Version 2 of the API represented a complete rewrite from the legacy (v1.1) platform, with new endpoints, data formats, and semantics.
 
 ## Contents
 
-- [Libraries and SDKs](#section)
-- [Another Section](#another-section)
+- [Libraries](#libraries)
+- [Resources](#resources)
 
-## Libraries and SDKs
+## Libraries
 
-API libraries in various different programming languages.
+API libraries in a range of programming languages.
 
 ### C# / .NET
 
@@ -80,6 +82,7 @@ API libraries in various different programming languages.
 
 - [tweetkit](https://github.com/julianfssen/tweetkit)
 
-## Contribute
+## Resources
 
-Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+- [Developer Forums](https://twittercommunity.com)
+- [Developer Website](https://developer.twitter.com)
