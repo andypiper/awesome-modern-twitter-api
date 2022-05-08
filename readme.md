@@ -1,8 +1,7 @@
-# Awesome Modern Twitter API 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![v2](https://img.shields.io/endpoint?url=https%3A%2F%2Ftwbadges.glitch.me%2Fbadges%2Fv2)](https://developer.twitter.com/) [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
+# Awesome Modern Twitter API [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-[cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
-[cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
+![v2](https://img.shields.io/endpoint?url=https%3A%2F%2Ftwbadges.glitch.me%2Fbadges%2Fv2) ![CC BY-SA 4.0][cc-by-sa-shield]
+
 [cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
 
 A curated list of awesome libraries, SDKs, software and resources for the _modern_ (post-v1.1) Twitter API.
@@ -11,22 +10,21 @@ The [Twitter API](https://developer.twitter.com/) is the programming interface t
 
 ## Contents
 
-  - [Contents](#contents)
-  - [Libraries](#libraries)
-    - [C# / .NET](#c--net)
-    - [Go](#go)
-    - [Java](#java)
-    - [JavaScript (Node.JS) / TypeScript](#javascript-nodejs--typescript)
-    - [Kotlin](#kotlin)
-    - [PHP](#php)
-    - [PowerShell](#powershell)
-    - [Python](#python)
-    - [R](#r)
-    - [Ruby](#ruby)
-  - [Resources](#resources)
-    - [Community](#community)
-    - [Documentation](#documentation)
-    - [Tutorials](#tutorials)
+- [Libraries](#libraries)
+  - [C# / .NET](#c--net)
+  - [Go](#go)
+  - [Java](#java)
+  - [JavaScript (Node.js) / TypeScript](#javascript-nodejs--typescript)
+  - [Kotlin](#kotlin)
+  - [PHP](#php)
+  - [PowerShell](#powershell)
+  - [Python](#python)
+  - [R](#r)
+  - [Ruby](#ruby)
+- [Resources](#resources)
+  - [Community](#community)
+  - [Documentation](#documentation)
+  - [Tutorials](#tutorials)
 
 ## Libraries
 
@@ -56,7 +54,7 @@ API libraries in a range of programming languages.
 - [twitter4j-v2](https://github.com/takke/twitter4j-v2)
 - [twittered](https://github.com/redouane59/twittered)
 
-### JavaScript (Node.JS) / TypeScript
+### JavaScript (Node.js) / TypeScript
 
 - [node-twitter-api-v2](https://github.com/PLhery/node-twitter-api-v2)
 - [tweet-json-to-html](https://github.com/wdl/tweet-json-to-html)
@@ -109,15 +107,8 @@ API libraries in a range of programming languages.
 
 ### Documentation
 
-- [Developer Website](https://developer.twitter.com)
+- [Developer Website](https://developer.twitter.com/docs)
 
 ### Tutorials
 
 - to add
-
-## License
-
-This work is licensed under a
-[Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
-
-[![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
