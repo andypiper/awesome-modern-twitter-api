@@ -10,6 +10,7 @@ The [Twitter API](https://developer.twitter.com/) is the programming interface t
 
 - [Libraries](#libraries)
   - [C# / .NET](#c--net)
+  - [Dart / Flutter](#dart--flutter)
   - [Go](#go)
   - [Java](#java)
   - [JavaScript (Node.js) / TypeScript](#javascript-nodejs--typescript)
@@ -19,6 +20,11 @@ The [Twitter API](https://developer.twitter.com/) is the programming interface t
   - [Python](#python)
   - [R](#r)
   - [Ruby](#ruby)
+  - [Rust](#rust)
+  - [Swift](#swift)
+- [Tools](#tools)
+  - [API testing](#api-testing)
+  - [No-code](#no-code)
 - [Resources](#resources)
   - [Community](#community)
   - [Documentation](#documentation)
@@ -26,7 +32,7 @@ The [Twitter API](https://developer.twitter.com/) is the programming interface t
 
 ## Libraries
 
-API libraries in a range of programming languages.
+API libraries in a range of programming languages. This list is not intended to be comprehensive, but aims to include awesome libraries and SDKs that cover a solid range of API features and endpoints. It also does not express any order or priority or preference!
 
 ### C# / .NET
 
@@ -35,6 +41,10 @@ API libraries in a range of programming languages.
 - [SocialOpinion](https://github.com/jamiemaguiredotnet/SocialOpinion-Public)
 - [Tweetinvi](https://github.com/linvi/tweetinvi)
 - [TwitterSharp](https://github.com/Xwilarg/TwitterSharp)
+
+### Dart / Flutter
+
+- [twitter-api-v2](https://github.com/twitter-dart/twitter-api-v2)
 
 ### Go
 
@@ -48,6 +58,7 @@ API libraries in a range of programming languages.
 ### Java
 
 - [JTW](https://github.com/uakihir0/jtw)
+- [twitter-api-java-sdk}(https://github.com/twitterdev/twitter-api-java-sdk)
 - [twitter-compliance](https://github.com/UCL/twitter-compliance)
 - [twitter4j-v2](https://github.com/takke/twitter4j-v2)
 - [twittered](https://github.com/redouane59/twittered)
@@ -56,6 +67,7 @@ API libraries in a range of programming languages.
 
 - [node-twitter-api-v2](https://github.com/PLhery/node-twitter-api-v2)
 - [tweet-json-to-html](https://github.com/wdl/tweet-json-to-html)
+- [twitter-api-typescript-sdk](https://github.com/twitterdev/twitter-api-typescript-sdk)
 - [twitter-types](https://github.com/twitterjs/twitter-types)
 - [twitter-v2](https://github.com/HunterLarco/twitter-v2)
 - [twitter.js](https://github.com/twitterjs/twitter.js)
@@ -68,6 +80,7 @@ API libraries in a range of programming languages.
 ### PHP
 
 - [bird-elephant](https://github.com/danieldevine/bird-elephant)
+- [twifer](https://github.com/ferrysyahrinal/twifer)
 - [Twitter Stream API](https://github.com/redwebcreation/twitter-stream-api)
 - [twitter-api-v2-php](https://github.com/noweh/twitter-api-v2-php)
 - [twitteroauth](https://github.com/abraham/twitteroauth)
@@ -79,6 +92,7 @@ API libraries in a range of programming languages.
 ### Python
 
 - [2wttr](https://github.com/simonlindgren/2wttr)
+- [compliant-client](https://github.com/twitterdev/compliant-client)
 - [python-twitter](https://github.com/sns-sdks/python-twitter)
 - [PyTweet](https://github.com/TheFarGG/PyTweet)
 - [tweepy](https://github.com/tweepy/tweepy)
@@ -97,16 +111,42 @@ API libraries in a range of programming languages.
 
 - [tweetkit](https://github.com/julianfssen/tweetkit)
 
+### Rust
+
+- [twitter-v2-rs](https://github.com/jpopesculian/twitter-v2-rs)
+
+### Swift
+
+- [Twift](https://github.com/daneden/Twift/)
+
+## Tools
+
+### API testing
+
+- [Postman Collection](https://t.co/twitter-api-postman)
+- [Twitter OAuth Playground](https://oauth-playground.glitch.me/)
+- [Twitter API Tools](https://developer.twitter.com/apitools/)
+
+### No-code
+
+- [twarc](https://twarc-project.readthedocs.io/en/latest/twarc2_en_us/)
+- [Tweet Downloader](https://developer.twitter.com/apitools/downloader) - requires Academic Access
+
 ## Resources
 
 ### Community
 
+Forums, discussion and Q&A channels
+
 - [Developer Forums](https://twittercommunity.com)
+- [Questions tagged `[twitter]` on Stack Overflow](https://stackoverflow.com/questions/tagged/twitter)
 
 ### Documentation
 
 - [Developer Website](https://developer.twitter.com/docs)
 
 ### Tutorials
+
+Guides, blog posts, tutorials, videos, howtos on using the Twitter API.
 
 - to add
