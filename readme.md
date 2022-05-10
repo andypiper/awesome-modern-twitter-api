@@ -74,6 +74,7 @@ API libraries in a range of programming languages. This list is not intended to 
 
 ### Kotlin
 
+- [KTweet](https://github.com/ChromasIV/KTweet)
 - [Tweedle](https://github.com/tyczj/Tweedle)
 - [TwitterApiKit](https://github.com/kojofosu/TwitterApiKit)
 
@@ -91,15 +92,19 @@ API libraries in a range of programming languages. This list is not intended to 
 
 ### Python
 
-- [2wttr](https://github.com/simonlindgren/2wttr)
+- [2wttr](https://github.com/simonlindgren/2wttr) - requires Academic Access
 - [compliant-client](https://github.com/twitterdev/compliant-client)
 - [python-twitter](https://github.com/sns-sdks/python-twitter)
 - [PyTweet](https://github.com/TheFarGG/PyTweet)
+- [search-tweets-python](https://github.com/twitterdev/search-tweets-python)
+- [spacy](https://github.com/madaragon/spacy)
 - [tweepy](https://github.com/tweepy/tweepy)
 - [tweetkit](https://github.com/ysenarath/tweetkit)
+- [tweetple](https://github.com/dapivei/tweetple)
 - [twitivity](https://github.com/twitivity/twitivity)
 - [twitter-stream.py](https://github.com/twitivity/twitter-stream.py)
 - [TwitterAPI](https://github.com/geduldig/TwitterAPI)
+- [twitterapiv2](https://github.com/Preocts/twitterapiv2)
 - [twitterati](https://github.com/JeannieDaniel/twitterati)
 
 ### R
@@ -109,28 +114,34 @@ API libraries in a range of programming languages. This list is not intended to 
 
 ### Ruby
 
+- [search-tweets-ruby](https://github.com/twitterdev/search-tweets-ruby)
 - [tweetkit](https://github.com/julianfssen/tweetkit)
 
 ### Rust
 
+- [rs_twitter_request](https://github.com/SkoogJacob/rs_twitter_request)
 - [twitter-v2-rs](https://github.com/jpopesculian/twitter-v2-rs)
 
 ### Swift
 
+- [Sweet](https://github.com/zunda-pixel/Sweet)
 - [Twift](https://github.com/daneden/Twift/)
+- [TwitterAPIKit](https://github.com/mironal/TwitterAPIKit)
 
 ## Tools
 
 ### API testing
 
 - [Postman Collection](https://t.co/twitter-api-postman)
-- [Twitter OAuth Playground](https://oauth-playground.glitch.me/)
 - [Twitter API Tools](https://developer.twitter.com/apitools/)
+- [Twitter OAuth Playground](https://oauth-playground.glitch.me/)
+- [Twitter Swagger UI](https://snowcait.github.io/twitter-swagger-ui/)
 
 ### No-code
 
 - [twarc](https://twarc-project.readthedocs.io/en/latest/twarc2_en_us/)
 - [Tweet Downloader](https://developer.twitter.com/apitools/downloader) - requires Academic Access
+- [Twitter Data Toolkit](https://github.com/shohil-kishore/twitter-data-toolkit)
 
 ## Resources
 
@@ -150,4 +161,4 @@ Forums, discussion and Q&A channels
 
 Guides, blog posts, tutorials, videos, howtos on using the Twitter API.
 
-- to add
+- [Twitter API v2 Tips and Tricks](https://www.postman.com/apihandyman/workspace/twitter-api-v2-tips-and-tricks/overview)
