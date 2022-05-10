@@ -58,7 +58,7 @@ API libraries in a range of programming languages. This list is not intended to 
 ### Java
 
 - [JTW](https://github.com/uakihir0/jtw)
-- [twitter-api-java-sdk}(https://github.com/twitterdev/twitter-api-java-sdk)
+- [twitter-api-java-sdk](https://github.com/twitterdev/twitter-api-java-sdk)
 - [twitter-compliance](https://github.com/UCL/twitter-compliance)
 - [twitter4j-v2](https://github.com/takke/twitter4j-v2)
 - [twittered](https://github.com/redouane59/twittered)
