@@ -143,7 +143,8 @@ Forums, discussion and Q&A channels
 
 ### Documentation
 
-- [Developer Website](https://developer.twitter.com/docs)
+- [API version badges](https://twbadges.glitch.me/)
+- [Twitter Developer Website](https://developer.twitter.com/docs)
 
 ### Tutorials
 
