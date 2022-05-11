@@ -18,7 +18,7 @@ Please ensure your Pull Request adheres to the following criteria:
   - Twitter API v1.1 projects _will not be added_, v1.1 is the past, this is all about the present and future 🚀
 - Use the [awesome-linter](https://github.com/sindresorhus/awesome-lint/) to check that your entry is well-formatted ✍️
 
-If you're not sure how to proceed, please ask a question via the [Discussions](https://github.com/andypiper/awesome-modern-twitter-api/discussions).
+If you're not sure how to proceed, please ask a question via the project [Discussions](https://github.com/andypiper/awesome-modern-twitter-api/discussions) on GitHub.
 
 Thank you for your suggestions!
 
