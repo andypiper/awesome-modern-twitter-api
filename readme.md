@@ -95,7 +95,7 @@ API libraries in a range of programming languages. This list is not intended to 
 
 ### Python
 
-- [2wttr](https://github.com/simonlindgren/2wttr) - requires Academic Access.
+- [2wttr](https://github.com/simonlindgren/2wttr) - Requires Academic Access.
 - [compliant-client](https://github.com/twitterdev/compliant-client)
 - [python-twitter](https://github.com/sns-sdks/python-twitter)
 - [PyTweet](https://github.com/TheFarGG/PyTweet)
@@ -143,7 +143,7 @@ API libraries in a range of programming languages. This list is not intended to 
 ### No-code
 
 - [twarc](https://twarc-project.readthedocs.io/en/latest/twarc2_en_us/)
-- [Tweet Downloader](https://developer.twitter.com/apitools/downloader) - requires Academic Access.
+- [Tweet Downloader](https://developer.twitter.com/apitools/downloader) - Requires Academic Access.
 - [Twitter Data Toolkit](https://github.com/shohil-kishore/twitter-data-toolkit)
 
 ## Resources
@@ -158,12 +158,12 @@ Forums, discussion and Q&A channels.
 ### Documentation
 
 - [API version badges](https://twbadges.glitch.me/)
-- [OpenAPI Specification](https://api.twitter.com/2/openapi.json) - the core API specification document, in OpenAPI format.
+- [OpenAPI Specification](https://api.twitter.com/2/openapi.json) - The core API specification document, in OpenAPI format.
 - [Twitter Developer Website](https://developer.twitter.com/docs)
 
 ### Sample apps
 
-- [Bookmark Search](https://bookmarksearch.glitch.me/) - an app that can be remixed on Glitch.
+- [Bookmark Search](https://bookmarksearch.glitch.me/) - An app that can be remixed on Glitch.
 
 ### Tutorials
 
