@@ -156,6 +156,7 @@ Forums, discussion and Q&A channels.
 
 - [Developer Forums](https://twittercommunity.com)
 - [Questions tagged `[twitter]` on Stack Overflow](https://stackoverflow.com/questions/tagged/twitter)
+- [asf](file://)
 
 ### Documentation
 
@@ -165,7 +166,7 @@ Forums, discussion and Q&A channels.
 
 ### Sample apps
 
-- [Bookmark Search](https://bookmarksearch.glitch.me/) - An app that can be remixed on Glitch.
+- [Bookmark Search](https://bookmarksearch.glitch.me/) - an app that can be remixed on Glitch.
 
 ### Tutorials
 
