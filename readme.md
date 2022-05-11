@@ -4,7 +4,9 @@
 
 A curated list of awesome libraries, SDKs, software and resources for the _modern_ (post-v1.1) Twitter API.
 
-The [Twitter API](https://developer.twitter.com/) is the programming interface that enables developers to build apps and tools on top of the Twitter Developer Platform. Version 2 of the API represented a complete rewrite from the legacy (v1.1) platform, with new endpoints, data formats, and semantics.
+The [Twitter API](https://developer.twitter.com/) is the programming interface that enables developers to build apps and tools on top of the Twitter Developer Platform. Version 2 of the API represented a complete rewrite from the legacy (v1.1) platform, with new endpoints, data formats, and semantics. This list only includes content that is directly relevant to the modern API.
+
+Feel free to [contribute](./contributing.md) to the list, or add to the [discussion](https://github.com/andypiper/awesome-modern-twitter-api/discussions) around items that could be included in the future.
 
 ## Contents
 
@@ -28,11 +30,12 @@ The [Twitter API](https://developer.twitter.com/) is the programming interface t
 - [Resources](#resources)
   - [Community](#community)
   - [Documentation](#documentation)
+  - [Sample apps](#sample-apps)
   - [Tutorials](#tutorials)
 
 ## Libraries
 
-API libraries in a range of programming languages. This list is not intended to be comprehensive, but aims to include awesome libraries and SDKs that cover a solid range of API features and endpoints. It also does not express any order or priority or preference!
+API libraries in a range of programming languages. This list is not intended to be comprehensive, but aims to include awesome libraries and SDKs that cover a solid range of the API features and endpoints. No order of priority or preference is intended, both first-party and third-party libraries are included.
 
 ### C# / .NET
 
@@ -92,7 +95,7 @@ API libraries in a range of programming languages. This list is not intended to 
 
 ### Python
 
-- [2wttr](https://github.com/simonlindgren/2wttr) - requires Academic Access
+- [2wttr](https://github.com/simonlindgren/2wttr) - requires Academic Access.
 - [compliant-client](https://github.com/twitterdev/compliant-client)
 - [python-twitter](https://github.com/sns-sdks/python-twitter)
 - [PyTweet](https://github.com/TheFarGG/PyTweet)
@@ -140,14 +143,14 @@ API libraries in a range of programming languages. This list is not intended to 
 ### No-code
 
 - [twarc](https://twarc-project.readthedocs.io/en/latest/twarc2_en_us/)
-- [Tweet Downloader](https://developer.twitter.com/apitools/downloader) - requires Academic Access
+- [Tweet Downloader](https://developer.twitter.com/apitools/downloader) - requires Academic Access.
 - [Twitter Data Toolkit](https://github.com/shohil-kishore/twitter-data-toolkit)
 
 ## Resources
 
 ### Community
 
-Forums, discussion and Q&A channels
+Forums, discussion and Q&A channels.
 
 - [Developer Forums](https://twittercommunity.com)
 - [Questions tagged `[twitter]` on Stack Overflow](https://stackoverflow.com/questions/tagged/twitter)
@@ -155,7 +158,12 @@ Forums, discussion and Q&A channels
 ### Documentation
 
 - [API version badges](https://twbadges.glitch.me/)
+- [OpenAPI Specification](https://api.twitter.com/2/openapi.json) - the core API specification document, in OpenAPI format.
 - [Twitter Developer Website](https://developer.twitter.com/docs)
+
+### Sample apps
+
+- [Bookmark Search](https://bookmarksearch.glitch.me/) - an app that can be remixed on Glitch.
 
 ### Tutorials
 
