@@ -4,9 +4,9 @@
 
 A curated list of awesome libraries, SDKs, software and resources for the _modern_ (post-v1.1) Twitter API.
 
-The [Twitter API](https://developer.twitter.com/) is the programming interface that enables developers to build apps and tools on top of the Twitter Developer Platform. Version 2 of the API represented a complete rewrite from the legacy (v1.1) platform, with new endpoints, data formats, and semantics. This list only includes content that is directly relevant to the modern API.
+The [Twitter API](https://developer.twitter.com/) is the programming interface that enables developers like you to build apps and tools on top of the Twitter Developer Platform. Version 2 of the API represented a complete rewrite from the legacy (v1.1) platform, with new endpoints, data formats, and semantics. This list only includes content that is directly relevant to the modern API.
 
-Feel free to [contribute](./contributing.md) to the list, or add to the [discussion](https://github.com/andypiper/awesome-modern-twitter-api/discussions) around items that could be included in the future.
+The list can only be _even more awesome_, with _your_ help! Feel free to [contribute](contributing.md), or add to the [discussion](https://github.com/andypiper/awesome-modern-twitter-api/discussions) around items that could be included in the future. Spotted a dead link, typo, or other mistake? Please raise an [issue](https://andypiper/awesome-modern-twitter-api/issues) 🙌
 
 ## Contents
 
