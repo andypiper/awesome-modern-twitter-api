@@ -141,7 +141,7 @@ API libraries in a range of programming languages. This list is not intended to 
 
 - [Postman Collection](https://t.co/twitter-api-postman)
 - [Twitter API Tools](https://developer.twitter.com/apitools/)
-- [Twitter OAuth Playground](https://oauth-playground.glitch.me/)
+- [Twitter OAuth Playground](https://oauth-playground.glitch.me/) - Test any of the Twitter API endpoints from a web interface.
 - [Twitter Swagger UI](https://snowcait.github.io/twitter-swagger-ui/)
 
 ### No-code
@@ -161,16 +161,17 @@ Forums, discussion and Q&A channels.
 
 ### Documentation
 
-- [API version badges](https://twbadges.glitch.me/)
+- [API version badges](https://twbadges.glitch.me/) - Useful API version support labels for Markdown or other documentation.
 - [OpenAPI Specification](https://api.twitter.com/2/openapi.json) - The core API specification document, in OpenAPI format.
-- [Twitter Developer Website](https://developer.twitter.com/docs)
+- [Twitter Developer Website](https://developer.twitter.com/docs) - The official Twitter API documentation.
 
 ### Sample apps
 
-- [Bookmark Search](https://bookmarksearch.glitch.me/) - An app that can be remixed on Glitch.
+- [Bookmark Search](https://bookmarksearch.glitch.me/) - An app using OAuth 2.0 and the Bookmarks API that can be remixed on Glitch.
 
 ### Tutorials
 
 Guides, blog posts, tutorials, videos, howtos on using the Twitter API.
 
 - [Twitter API v2 Tips and Tricks](https://www.postman.com/apihandyman/workspace/twitter-api-v2-tips-and-tricks/overview)
+- [Understanding the entire conversation around a Tweet with v2](https://dev.to/suhemparack/understanding-the-entire-conversation-around-a-tweet-with-the-twitter-api-v2-3ce6)
