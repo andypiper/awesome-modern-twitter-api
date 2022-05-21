@@ -121,8 +121,10 @@ API libraries in a range of programming languages. This list is not intended to 
 
 ### Ruby
 
+- [omniauth-twitter2](https://github.com/unasuke/omniauth-twitter2) - OmniAuth strategy for authenticating with Twitter OAuth2.
 - [search-tweets-ruby](https://github.com/twitterdev/search-tweets-ruby)
 - [tweetkit](https://github.com/julianfssen/tweetkit)
+- [twitter_oauth2](https://github.com/nov/twitter_oauth2) - Twitter OAuth 2.0 Client Library in Ruby.
 
 ### Rust
 
