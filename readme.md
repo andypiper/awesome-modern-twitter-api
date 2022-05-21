@@ -163,6 +163,7 @@ Forums, discussion and Q&A channels.
 
 - [API version badges](https://twbadges.glitch.me/) - Useful API version support labels for Markdown or other documentation.
 - [OpenAPI Specification](https://api.twitter.com/2/openapi.json) - The core API specification document, in OpenAPI format.
+- [Tweet capacity quick reference](https://cloud-eustoma-eaa.notion.site/Twitter-API-7e9483b8ee694bcf8f962087bbec79c5) - A short summary of API data volumes.
 - [Twitter Developer Website](https://developer.twitter.com/docs) - The official Twitter API documentation.
 
 ### Sample apps
