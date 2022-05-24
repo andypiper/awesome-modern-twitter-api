@@ -171,6 +171,7 @@ Forums, discussion and Q&A channels.
 ### Sample apps
 
 - [Bookmark Search](https://bookmarksearch.glitch.me/) - An app using OAuth 2.0 and the Bookmarks API that can be remixed on Glitch.
+- [Home Timline Explorer](https://home-timeline-annotations.glitch.me/) - An app that explores topic annotations in a user's reverse chronological (home) timeline that can be remixed on Glitch.
 
 ### Tutorials
 
