@@ -1,5 +1,3 @@
-<!--lint disable awesome-git-repo-age-->
-
 # Awesome Modern Twitter API [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 [![v2](https://img.shields.io/endpoint?url=https%3A%2F%2Ftwbadges.glitch.me%2Fbadges%2Fv2)](https://t.co/signup)
