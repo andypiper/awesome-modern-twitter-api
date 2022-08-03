@@ -16,6 +16,7 @@ This list is community-contributed, and it is not owned by Twitter. The list can
 - [Libraries](#libraries)
   - [C# / .NET](#c--net)
   - [Dart / Flutter](#dart--flutter)
+  - [Deno](#deno)
   - [Go](#go)
   - [Java](#java)
   - [JavaScript (Node.js) / TypeScript](#javascript-nodejs--typescript)
@@ -50,7 +51,11 @@ API libraries in a range of programming languages. This list is not intended to 
 
 ### Dart / Flutter
 
-- [twitter-api-v2](https://github.com/twitter-dart/twitter-api-v2) - Library for Twitter API v2.0 written in Dart and Flutter.
+- [twitter-api-v2](https://github.com/twitter-dart/twitter-api-v2) - Library for Twitter API v2 written in Dart and Flutter.
+
+### Deno
+
+- [twi](https://github.com/roj1512/twi) - Twitter API client for Deno ported from twitter-api-typescript-sdk.
 
 ### Go
 
