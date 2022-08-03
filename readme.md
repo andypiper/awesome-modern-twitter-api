@@ -42,24 +42,24 @@ API libraries in a range of programming languages. This list is not intended to 
 
 ### C# / .NET
 
-- [CoreTweet](https://github.com/CoreTweet/CoreTweet)
-- [LinqToTwitter](https://github.com/JoeMayo/LinqToTwitter)
-- [SocialOpinion](https://github.com/jamiemaguiredotnet/SocialOpinion-Public)
-- [Tweetinvi](https://github.com/linvi/tweetinvi)
-- [TwitterSharp](https://github.com/Xwilarg/TwitterSharp)
+- [CoreTweet](https://github.com/CoreTweet/CoreTweet) - Yet Another .NET Twitter Library.
+- [LinqToTwitter](https://github.com/JoeMayo/LinqToTwitter) - LINQ Provider for the Twitter API (C# Twitter Library).
+- [SocialOpinion](https://github.com/jamiemaguiredotnet/SocialOpinion-Public) - APIs written in C# that connect to the Twitter API.
+- [Tweetinvi](https://github.com/linvi/tweetinvi) - Tweetinvi, an intuitive Twitter C# library.
+- [TwitterSharp](https://github.com/Xwilarg/TwitterSharp) - C# wrapper around Twitter API V2.
 
 ### Dart / Flutter
 
-- [twitter-api-v2](https://github.com/twitter-dart/twitter-api-v2)
+- [twitter-api-v2](https://github.com/twitter-dart/twitter-api-v2) - Library for Twitter API v2.0 written in Dart and Flutter.
 
 ### Go
 
-- [ctw](https://github.com/0dayfall/ctw)
-- [go-twitter](https://github.com/g8rswimmer/go-twitter)
-- [gotwi](https://github.com/michimani/gotwi)
-- [gotwtr](https://github.com/sivchari/gotwtr)
-- [twitter-stream](https://github.com/Fallenstedt/twitter-stream)
-- [twitter](https://github.com/creachadair/twitter)
+- [ctw](https://github.com/0dayfall/ctw) - Twitter v2 API.
+- [go-twitter](https://github.com/g8rswimmer/go-twitter) - A Go library for Twitter v2 API integration.
+- [gotwi](https://github.com/michimani/gotwi) - A library for using the Twitter API v2 in the Go language.
+- [gotwtr](https://github.com/sivchari/gotwtr) - A library that provides Twitter v2 API.
+- [twitter-stream](https://github.com/Fallenstedt/twitter-stream) - A Go wrapper for Twitter's V2 Filtered Stream API.
+- [twitter](https://github.com/creachadair/twitter) - A Go client for the Twitter v2 API.
 
 ### Java
 
@@ -128,7 +128,7 @@ API libraries in a range of programming languages. This list is not intended to 
 ### Rust
 
 - [rs_twitter_request](https://github.com/SkoogJacob/rs_twitter_request)
-- [twitter-v2-rs](https://github.com/jpopesculian/twitter-v2-rs)
+- [twitter-v2-rs](https://github.com/jpopesculian/twitter-v2-rs) - Rust bindings for Twitter API v2.
 
 ### Swift
 
