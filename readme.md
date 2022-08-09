@@ -163,8 +163,9 @@ API libraries in a range of programming languages. This list is not intended to 
 
 Forums, discussion and Q&A channels.
 
-- [Developer Forums](https://twittercommunity.com)
-- [Questions tagged `[twitter]` on Stack Overflow](https://stackoverflow.com/questions/tagged/twitter)
+- [Developer Forums](https://twittercommunity.com) - Twitter-owned discussion forums for the API and developer platform.
+- [Questions tagged `[twitter]` on Stack Overflow](https://stackoverflow.com/questions/tagged/twitter) - Stack Overflow topic for Twitter questions.
+- [`[twitter-api-v2]` on LibHunt](https://www.libhunt.com/topic/twitter-api-v2) - Code projects using Twitter API v2 on LibHunt.
 
 ### Documentation
 
