@@ -68,16 +68,16 @@ API libraries in a range of programming languages. This list is not intended to 
 
 ### Java
 
-- [JTW](https://github.com/uakihir0/jtw)
-- [twitter-api-java-sdk](https://github.com/twitterdev/twitter-api-java-sdk)
-- [twitter-compliance](https://github.com/UCL/twitter-compliance)
-- [twitter4j-v2](https://github.com/takke/twitter4j-v2)
-- [twittered](https://github.com/redouane59/twittered)
+- [JTW](https://github.com/uakihir0/jtw) - Twitter v2 API Client for Java that can be complied to Objective-C by J2ObjC.
+- [twitter-api-java-sdk](https://github.com/twitterdev/twitter-api-java-sdk) - A Java SDK for the Twitter API (official).
+- [twitter-compliance](https://github.com/UCL/twitter-compliance) - Multi-module Jakarta EE application for syncing compliance events from Twitter.
+- [twitter4j-v2](https://github.com/takke/twitter4j-v2) - A simple wrapper for Twitter API v2 that is designed to be used with Twitter4J.
+- [twittered](https://github.com/redouane59/twittered) - Twitter API client for Java developers.
 
 ### JavaScript (Node.js) / TypeScript
 
-- [node-twitter-api-v2](https://github.com/PLhery/node-twitter-api-v2)
-- [tweet-json-to-html](https://github.com/wdl/tweet-json-to-html)
+- [node-twitter-api-v2](https://github.com/PLhery/node-twitter-api-v2) - Strongly typed, full-featured, Twitter API v2 client for Node.js.
+- [tweet-json-to-html](https://github.com/wdl/tweet-json-to-html) - Converts Twitter API v2 Tweet JSON object into HTML format.
 - [twitter-api-typescript-sdk](https://github.com/twitterdev/twitter-api-typescript-sdk)
 - [twitter-types](https://github.com/twitterjs/twitter-types)
 - [twitter-v2](https://github.com/HunterLarco/twitter-v2)
