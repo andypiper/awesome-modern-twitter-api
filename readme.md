@@ -91,6 +91,7 @@ API libraries in a range of programming languages. This list is not intended to 
 
 ### PHP
 
+- [twitter-ultimate-php](https://github.com/utxo-one/twitter-ultimate-php)
 - [bird-elephant](https://github.com/danieldevine/bird-elephant)
 - [twifer](https://github.com/ferrysyahrinal/twifer)
 - [Twitter Stream API](https://github.com/redwebcreation/twitter-stream-api)
