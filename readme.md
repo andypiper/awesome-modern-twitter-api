@@ -13,29 +13,31 @@ This list is community-contributed, and it is not owned by Twitter. The list can
 
 ## Contents
 
-- [Libraries](#libraries)
-  - [C# / .NET](#c--net)
-  - [Dart / Flutter](#dart--flutter)
-  - [Deno](#deno)
-  - [Go](#go)
-  - [Java](#java)
-  - [JavaScript (Node.js) / TypeScript](#javascript-nodejs--typescript)
-  - [Kotlin](#kotlin)
-  - [PHP](#php)
-  - [PowerShell](#powershell)
-  - [Python](#python)
-  - [R](#r)
-  - [Ruby](#ruby)
-  - [Rust](#rust)
-  - [Swift](#swift)
-- [Tools](#tools)
-  - [API testing](#api-testing)
-  - [No-code](#no-code)
-- [Resources](#resources)
-  - [Community](#community)
-  - [Documentation](#documentation)
-  - [Sample apps](#sample-apps)
-  - [Tutorials](#tutorials)
+- [Awesome Modern Twitter API ![Awesome](https://awesome.re)](#awesome-modern-twitter-api-)
+  - [Contents](#contents)
+  - [Libraries](#libraries)
+    - [C# / .NET](#c--net)
+    - [Dart / Flutter](#dart--flutter)
+    - [Deno](#deno)
+    - [Go](#go)
+    - [Java](#java)
+    - [JavaScript (Node.js) / TypeScript](#javascript-nodejs--typescript)
+    - [Kotlin](#kotlin)
+    - [PHP](#php)
+    - [PowerShell](#powershell)
+    - [Python](#python)
+    - [R](#r)
+    - [Ruby](#ruby)
+    - [Rust](#rust)
+    - [Swift](#swift)
+  - [Resources](#resources)
+    - [Community](#community)
+    - [Documentation](#documentation)
+    - [Sample apps](#sample-apps)
+    - [Tutorials](#tutorials)
+  - [Tools](#tools)
+    - [API testing](#api-testing)
+    - [No-code](#no-code)
 
 ## Libraries
 
@@ -91,16 +93,16 @@ API libraries in a range of programming languages. This list is not intended to 
 
 ### PHP
 
-- [twitter-ultimate-php](https://github.com/utxo-one/twitter-ultimate-php)
-- [bird-elephant](https://github.com/danieldevine/bird-elephant)
-- [twifer](https://github.com/ferrysyahrinal/twifer)
-- [Twitter Stream API](https://github.com/redwebcreation/twitter-stream-api)
-- [twitter-api-v2-php](https://github.com/noweh/twitter-api-v2-php)
-- [twitteroauth](https://github.com/abraham/twitteroauth)
+- [bird-elephant](https://github.com/danieldevine/bird-elephant) - PHP library for Twitter API v2.
+- [twifer](https://github.com/ferrysyahrinal/twifer) - Simple PHP Library for Twitter API
+- [Twitter Stream API](https://github.com/felixdorn/twitter-stream-api) - Consume the Twitter Stream API in real-time.
+- [Twitter-api-v2-php](https://github.com/noweh/twitter-api-v2-php) - PHP package providing easy and fast access to Twitter API V2.
+- [Twitter-ultimate-php](https://github.com/utxo-one/twitter-ultimate-php) - A complete PHP Wrapper for the Twitter v2 API.
+- [twitteroauth](https://github.com/abraham/twitteroauth) - PHP library for use with the Twitter OAuth REST API.
 
 ### PowerShell
 
-- [BluebirdPS](https://github.com/thedavecarroll/BluebirdPS)
+- [BluebirdPS](https://github.com/thedavecarroll/BluebirdPS) - A Twitter Automation Client for PowerShell 7.
 
 ### Python
 
@@ -143,21 +145,6 @@ API libraries in a range of programming languages. This list is not intended to 
 - [Twift](https://github.com/daneden/Twift/)
 - [TwitterAPIKit](https://github.com/mironal/TwitterAPIKit)
 
-## Tools
-
-### API testing
-
-- [Postman Collection](https://t.co/twitter-api-postman)
-- [Twitter API Tools](https://developer.twitter.com/apitools/)
-- [Twitter OAuth Playground](https://oauth-playground.glitch.me/) - Test any of the Twitter API endpoints from a web interface.
-- [Twitter Swagger UI](https://snowcait.github.io/twitter-swagger-ui/)
-
-### No-code
-
-- [twarc](https://twarc-project.readthedocs.io/en/latest/twarc2_en_us/)
-- [Tweet Downloader](https://developer.twitter.com/apitools/downloader) - Requires Academic Access.
-- [Twitter Data Toolkit](https://github.com/shohil-kishore/twitter-data-toolkit)
-
 ## Resources
 
 ### Community
@@ -177,6 +164,14 @@ Forums, discussion and Q&A channels.
 
 ### Sample apps
 
+#### Code collections
+
+- [Twitter page on Glitch](https://glitch.com/@twitter) - Remixable examples on Glitch
+- [Twitter page on Replit](https://replit.com/@Twitter) - Samples and templates on Replit
+- [TwitterDev org on GitHub](https://github.com/twitterdev) - Source code repositories on GitHub
+
+#### Individual samples
+
 - [Bookmark Search](https://bookmarksearch.glitch.me/) - An app using OAuth 2.0 and the Bookmarks API that can be remixed on Glitch.
 
 ### Tutorials
@@ -185,3 +180,18 @@ Guides, blog posts, tutorials, videos, howtos on using the Twitter API.
 
 - [Twitter API v2 Tips and Tricks](https://www.postman.com/apihandyman/workspace/twitter-api-v2-tips-and-tricks/overview)
 - [Understanding the entire conversation around a Tweet with v2](https://dev.to/suhemparack/understanding-the-entire-conversation-around-a-tweet-with-the-twitter-api-v2-3ce6)
+
+## Tools
+
+### API testing
+
+- [Postman Collection](https://www.postman.com/twitter/workspace/twitter-s-public-workspace/collection/9956214-784efcda-ed4c-4491-a4c0-a26470a67400?ctx=documentation)
+- [Twitter API Tools](https://developer.twitter.com/apitools/)
+- [Twitter OAuth Playground](https://oauth-playground.glitch.me/) - Test any of the Twitter API endpoints from a web interface.
+- [Twitter Swagger UI](https://snowcait.github.io/twitter-swagger-ui/)
+
+### No-code
+
+- [twarc](https://twarc-project.readthedocs.io/en/latest/twarc2_en_us/)
+- [Tweet Downloader](https://developer.twitter.com/apitools/downloader) - Requires Academic Access.
+- [Twitter Data Toolkit](https://github.com/shohil-kishore/twitter-data-toolkit)

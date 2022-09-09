@@ -12,10 +12,11 @@ Please ensure your Pull Request adheres to the following criteria:
 
 - One new link per Pull Request. This makes it more straightforward to ask questions, or assess and get feedback from the community about project awesomeness 😎
   - fixes for typos or broken links, and suggested new text content, may skip this requirement. For new section proposals, start with a [discussion](https://github.com/andypiper/awesome-modern-twitter-api/discussions).
+  - per-language library lists should be alphabetical to avoid any kind of preferential presentation.
 - No purely-commercial promotion; apps and links will be vetted for awesomeness 🙂
 - The policy is that the list only includes projects related to Twitter API v2 ⏫ therefore, not all Pull Requests may immediately be merged.
   - Twitter API v1.1 projects _will not be added_. v1.1 is The Past: it is no longer being updated, and it will ultimately be retired. This list is all about the present and future 🚀
-  - The goal is to curate a list of _maintained and useful_ resources. In the case of libraries, there should be solid coverage of the API. Dead links or abandoned projects will be removed.
+  - The goal is to curate a list of _maintained and useful_ resources. In the case of libraries, there should be solid coverage of the API. Dead links or abandoned projects will be removed (please open a PR or an issue if you see one)
 - Use the [awesome-linter](https://github.com/sindresorhus/awesome-lint/) to check that your entry is well-formatted ✍️
 
 If you want to propose an addition but are not sure how to proceed, please ask a question via the project [Discussions](https://github.com/andypiper/awesome-modern-twitter-api/discussions) on GitHub.
