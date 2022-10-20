@@ -179,6 +179,7 @@ Forums, discussion and Q&A channels.
 
 Guides, blog posts, tutorials, videos, howtos on using the Twitter API.
 
+- [How to search for Tweets about various 'Topics' using the Twitter API v2](https://dev.to/suhemparack/how-to-search-for-tweets-about-various-topics-using-the-twitter-api-v2-3p86)
 - [Introduction to Twitter Data Processing and Storage on AWS](https://dev.to/twitterdev/introduction-to-twitter-data-processing-and-storage-on-aws-1og)
 - [Twitter API v2 Tips and Tricks](https://www.postman.com/apihandyman/workspace/twitter-api-v2-tips-and-tricks/overview)
 - [Understanding the entire conversation around a Tweet with v2](https://dev.to/suhemparack/understanding-the-entire-conversation-around-a-tweet-with-the-twitter-api-v2-3ce6)
