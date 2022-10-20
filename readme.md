@@ -1,6 +1,7 @@
 # Awesome Modern Twitter API [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 [![v2](https://img.shields.io/endpoint?url=https%3A%2F%2Ftwbadges.glitch.me%2Fbadges%2Fv2)](https://t.co/signup)
+[![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](./contributing.md)
 [![CC-0 license](https://img.shields.io/badge/License-CC--0-blue.svg)](https://creativecommons.org/licenses/by-nd/4.0)
 
 ![awesome-modern-twitter-api](https://socialify.git.ci/andypiper/awesome-modern-twitter-api/image?description=1&descriptionEditable=A%20curated%20list%20of%20apps%20built%20with%2C%20and%20libraries%20for%20using%2C%20the%20modern%20Twitter%20API&font=KoHo&logo=https%3A%2F%2Fraw.githubusercontent.com%2Fandypiper%2Fawesome-modern-twitter-api%2Fmain%2Fdocs%2Fimg%2Fawesome-modern-twitter-api.svg&name=1&pattern=Charlie%20Brown&stargazers=1&theme=Dark)
