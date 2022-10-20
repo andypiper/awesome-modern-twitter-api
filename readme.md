@@ -80,21 +80,22 @@ API libraries in a range of programming languages. This list is not intended to 
 
 - [node-twitter-api-v2](https://github.com/PLhery/node-twitter-api-v2) - Strongly typed, full-featured, Twitter API v2 client for Node.js.
 - [tweet-json-to-html](https://github.com/wdl/tweet-json-to-html) - Converts Twitter API v2 Tweet JSON object into HTML format.
-- [twitter-api-typescript-sdk](https://github.com/twitterdev/twitter-api-typescript-sdk)
-- [twitter-types](https://github.com/twitterjs/twitter-types)
-- [twitter-v2](https://github.com/HunterLarco/twitter-v2)
-- [twitter.js](https://github.com/twitterjs/twitter.js)
+- [twitter-api-typescript-sdk](https://github.com/twitterdev/twitter-api-typescript-sdk) - A TypeScript SDK for the Twitter API.
+- [twitter-types](https://github.com/twitterjs/twitter-types) - Type definitions for Twitter API.
+- [twitter-v2](https://github.com/HunterLarco/twitter-v2) - An asynchronous client library for the Twitter REST and Streaming APIs.
+- [twitter.js](https://github.com/twitterjs/twitter.js) - A Node.js and TypeScript library for interacting with Twitter API v2.
 
 ### Kotlin
 
-- [KTweet](https://github.com/ChromasIV/KTweet)
-- [Tweedle](https://github.com/tyczj/Tweedle)
-- [TwitterApiKit](https://github.com/kojofosu/TwitterApiKit)
+- [KTweet](https://github.com/ChromasIV/KTweet) - A Kotlin Library that allows you to consume the Twitter API v2.
+- [Tweedle](https://github.com/tyczj/Tweedle) - A Kotlin-based Android library around the Twitter v2 API.
+- [TwitterApiKit](https://github.com/kojofosu/TwitterApiKit) - Twitter's API v2 Objectified. This library is supported on Gradle, Maven, Java, Kotlin, and Android projects.
 
 ### PHP
 
 - [bird-elephant](https://github.com/danieldevine/bird-elephant) - PHP library for Twitter API v2.
-- [twifer](https://github.com/ferrysyahrinal/twifer) - Simple PHP Library for Twitter API
+- [twifer](https://github.com/ferrysyahrinal/twifer) - Simple PHP Library for Twitter API.
+- [twitter](https://github.com/atymic/twitter) - Twitter API for Laravel 5.5+, 6.x, 7.x & 8.x.
 - [Twitter Stream API](https://github.com/felixdorn/twitter-stream-api) - Consume the Twitter Stream API in real-time.
 - [Twitter-api-v2-php](https://github.com/noweh/twitter-api-v2-php) - PHP package providing easy and fast access to Twitter API V2.
 - [Twitter-ultimate-php](https://github.com/utxo-one/twitter-ultimate-php) - A complete PHP Wrapper for the Twitter v2 API.
