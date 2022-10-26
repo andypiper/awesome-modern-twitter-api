@@ -83,7 +83,6 @@ API libraries in a range of programming languages. This list is not intended to 
 - [tweet-json-to-html](https://github.com/wdl/tweet-json-to-html) - Converts Twitter API v2 Tweet JSON object into HTML format.
 - [twitter-api-typescript-sdk](https://github.com/twitterdev/twitter-api-typescript-sdk) - A TypeScript SDK for the Twitter API.
 - [twitter-types](https://github.com/twitterjs/twitter-types) - Type definitions for Twitter API.
-- [twitter-v2](https://github.com/HunterLarco/twitter-v2) - An asynchronous client library for the Twitter REST and Streaming APIs.
 - [twitter.js](https://github.com/twitterjs/twitter.js) - A Node.js and TypeScript library for interacting with Twitter API v2.
 
 ### Kotlin
